@@ -1,0 +1,26 @@
+
+
+
+a = input("Enter the number 1:")
+
+b = input("Enter the number 2:")
+
+#Addition
+
+# sum= int(a)+int(b)
+# print('addition is', sum)
+
+#subtraction
+
+# sub = int(a) - int(b)
+# print('subtraction is' ,sub)
+
+#Multiplication
+
+# mul = int(a) * int(b)
+# print('multiply is' ,mul)
+
+#Division
+
+# Div = int(a) / int(b)
+# print('divide is' ,Div)
